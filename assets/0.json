@@ -1,0 +1,19 @@
+{
+    "name": "Bad Luck Brian - Blind Girl",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "22ZevsiWmV5vtLP2kAkcM1QdGWNU1fPLai2VLeytgBT6",
+          "share": 100
+        }
+      ]
+    }
+  }

@@ -1,0 +1,19 @@
+{
+    "name": "Bad Luck Brian - Fire Drill",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "22ZevsiWmV5vtLP2kAkcM1QdGWNU1fPLai2VLeytgBT6",
+          "share": 100
+        }
+      ]
+    }
+  }
